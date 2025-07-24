@@ -1,5 +1,10 @@
+# 💫 Hi 👋, I'm Himanshu Mahata
+
+Email Me 👉 ✉️ **hmofficial00@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
 # 💫 About Me:
 🔭 I’m currently working on real-time multiplayer web & mobile apps<br><br>🤝 I’m looking to collaborate on open-source Flutter or Node.js projects<br><br>🧠 I’m currently learning advanced Unity & WebGL integrations<br><br>💬 Ask me about Flutter, Firebase, HTML/CSS, JavaScript, Node.js, Unity<br><br>⚡ Fun fact: I enjoy building things that combine code and creativity!
+
 
 
 ## 🌐 Socials:
@@ -11,6 +16,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=Devil-008&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Devil-008&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devil-008&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Devil-008&theme=radical&no-frame=false&no-bg=false&margin-w=4)
